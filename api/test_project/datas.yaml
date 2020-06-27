@@ -1,0 +1,15 @@
+api_user:
+  - id:11
+    username:wupeng1
+    email:1059@qq.com
+    groups:http://127.0.0.1:8000/groups/11/
+  - id:12
+    username:wupeng2
+    email:1059@qq.com
+    groups:http://127.0.0.1:8000/groups/12/
+
+api_groups:
+  - id:11
+    name:team11
+  - id:12
+  - name:team12

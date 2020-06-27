@@ -1,0 +1,26 @@
+{
+  "api_user": [
+    {
+      "id": 10,
+      "username": "kangraobin",
+      "email": "1059457506@qq.com",
+      "groups": "http://127.0.0.1:8000/groups/10/"
+    },
+    {
+      "id": 11,
+      "username": "kangraobin",
+      "email": "1059457506@qq.com",
+      "groups": "http://127.0.0.1:8000/groups/10/"
+    }
+  ],
+  "api_groups": [
+    {
+      "id": 11,
+      "name": "team11"
+    },
+    {
+      "id": 12,
+      "name": "team12"
+    }
+  ]
+}
